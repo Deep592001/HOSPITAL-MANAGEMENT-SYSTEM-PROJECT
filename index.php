@@ -4,7 +4,7 @@ include("header.php");
 <div class="wrapper col1">
   <div id="container">
     <div id="content">
-      <h1>Welcome to Hospital Management System</h1>
+      <h1>Welcome to Online Hospital Management System</h1>
       <p>  The goal of the Doctor appointment SYSTEM
   System is to improve the efficiency of the health by reducing the overall time and cost used to create documents and retrieve information.
 .</p>
@@ -13,14 +13,12 @@ include("header.php");
       <p>Doctor appointment System maintains patient’s prescriptions so that their medical details are always available in Internet, which will be more convenient for the patients. This will be more comfortable for the patient..</p>
 
       <div class="homecontent">
-        
+       
         <div class="clear"></div>
       </div>
     </div>
    
+   
     <div class="clear"></div>
   </div>
 </div>
-<?php
-include("footer.php");
-?>

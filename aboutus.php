@@ -11,15 +11,7 @@ include("header.php");
     </ul>
     <div class="clear"></div>
   </div>
-</div>
-<div class="wrapper col4">
-  <div id="container">
-    <div id="content">
-         </div>
-    
+
     <div class="clear"></div>
   </div>
 </div>
-<?php
-include("footer.php");
-?>

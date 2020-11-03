@@ -20,14 +20,7 @@ if(isset($_POST[submit]))
 </div>
 <div class="wrapper col4">
   <div id="container">
-    <h6>Our Address</h6>
-    <p>
-Online Hospital Management System , Bangalore<br />
-
-<strong>tel</strong>:080 65110488<br />
-
-<strong>Email ID</strong>: ohms@gmail.com</p>
-
+    
         <h6>Contact Us by entering following information</h6>
             <form action="" method="post">
           <p>
@@ -57,7 +50,7 @@ Online Hospital Management System , Bangalore<br />
   </div>
 </div>
 <?php
-include("footer.php");
+
 function sendmail($toaddress,$subject,$message)
 {
 	require 'PHPMailer-master/PHPMailerAutoload.php';
